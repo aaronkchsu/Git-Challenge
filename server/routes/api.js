@@ -63,7 +63,6 @@ router.route('/users/:user_id')
             res.json(data)
         })
     })
-
     // update the user with this id (accessed at PUT http://localhost:8080/api/users/:user_id)
     .put(function (req, res) {
         // use our user model to find the user we want
