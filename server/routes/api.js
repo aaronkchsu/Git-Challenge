@@ -70,7 +70,6 @@ router.route('/users/:user_id')
             if (err) {
                 res.send(err)
             }
-
             user.name = req.body.name
             user.password = req.body.password
             user.email = req.body.email
