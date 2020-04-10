@@ -44,6 +44,8 @@ This project was generated with [Vue CLI](https://github.com/vuejs/vue-cli) vers
 
 ## Screenshots:
 
+
+
 ### Main Page:
 ![Alt text](https://image.ibb.co/cF5D6V/screencapture-localhost-8081-2018-10-28-14-33-47.png)
 
