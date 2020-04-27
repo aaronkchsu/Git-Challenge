@@ -52,7 +52,8 @@ router.route('/users')
 /*  USER Update and Read by Id and delete users API's */
 // on routes that end in /users/:user_id
 // ----------------------------------------------------
-router.route2('/users/:user_id')
+
+router.route('/users/:user_id')
 
     // get the user with that id (accessed at GET http://localhost:8080/api/users/:user_id)
     .get(function (req, res) {
